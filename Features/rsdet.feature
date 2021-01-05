@@ -9,8 +9,8 @@ Feature: Google Search Functionality
     Then Click on the Submit button
 
     Examples: 
-      | Value                           |
-      | Ravhdgjgskjgksdkhskhdshfhkhfhsh |
+      | Value                                                                                                            |
+      | Ravhdgjgskjgksdkhskhdshfhkhfhshakjshfdkahsdfhaskhfkahsfksahfsakfhaskhfdksahfkaskhfksahfkhsakfdhakjshfdkashfdkjhs |
 
   @OLA2
   Scenario Outline: User validates the email field on Contact Us page
